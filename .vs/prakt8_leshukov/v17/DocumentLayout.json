@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\leshu\\source\\repos\\prakt8_leshukov\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\leshu\\source\\repos\\prakt8_leshukov\\controllers\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:controllers\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\leshu\\source\\repos\\prakt8_leshukov\\models\\prakt8context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:models\\prakt8context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prakt8Context.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Models\\Prakt8Context.cs",
+              "RelativeDocumentMoniker": "Models\\Prakt8Context.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Models\\Prakt8Context.cs",
+              "RelativeToolTip": "Models\\Prakt8Context.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vxYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T16:09:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Tasks.cs",
+              "RelativeDocumentMoniker": "Controllers\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Tasks.cs",
+              "RelativeToolTip": "Controllers\\Tasks.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T13:49:54.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Auth.cs",
+              "RelativeToolTip": "Controllers\\Auth.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:36:29.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
